@@ -1,0 +1,101 @@
+Name,Year,Duration,Genre,Rating,Votes,Director,Actor1,Actor2,Actor3
+The Shawshank Redemption,1994,142,Drama,9.3,2500000,Frank Darabont,Tim Robbins,Morgan Freeman,Bob Gunton
+The Godfather,1972,175,Crime,9.2,1800000,Francis Ford Coppola,Marlon Brando,Al Pacino,James Caan
+The Dark Knight,2008,152,Action,9.0,2600000,Christopher Nolan,Christian Bale,Heath Ledger,Aaron Eckhart
+Pulp Fiction,1994,154,Crime,8.9,2000000,Quentin Tarantino,John Travolta,Uma Thurman,Samuel L. Jackson
+Schindler's List,1993,195,Drama,9.0,1300000,Steven Spielberg,Liam Neeson,Ben Kingsley,Ralph Fiennes
+The Lord of the Rings: The Return of the King,2003,201,Adventure,9.0,1800000,Peter Jackson,Elijah Wood,Viggo Mortensen,Orlando Bloom
+The Good the Bad and the Ugly,1966,178,Western,8.8,750000,Sergio Leone,Clint Eastwood,Eli Wallach,Lee Van Cleef
+Fight Club,1999,139,Drama,8.8,2100000,David Fincher,Brad Pitt,Edward Norton,Helena Bonham Carter
+Forrest Gump,1994,142,Drama,8.8,2000000,Robert Zemeckis,Tom Hanks,Robin Wright,Gary Sinise
+Inception,2010,148,Action,8.8,2400000,Christopher Nolan,Leonardo DiCaprio,Joseph Gordon-Levitt,Ellen Page
+The Matrix,1999,136,Action,8.7,1900000,Lana Wachowski,Keanu Reeves,Laurence Fishburne,Carrie-Anne Moss
+Goodfellas,1990,146,Crime,8.7,1100000,Martin Scorsese,Robert De Niro,Ray Liotta,Joe Pesci
+One Flew Over the Cuckoo's Nest,1975,133,Drama,8.7,1000000,Milos Forman,Jack Nicholson,Louise Fletcher,Michael Berryman
+Interstellar,2014,169,Sci-Fi,8.6,1800000,Christopher Nolan,Matthew McConaughey,Anne Hathaway,Jessica Chastain
+The Silence of the Lambs,1991,118,Thriller,8.6,1500000,Jonathan Demme,Jodie Foster,Anthony Hopkins,Scott Glenn
+Saving Private Ryan,1998,169,Drama,8.6,1300000,Steven Spielberg,Tom Hanks,Matt Damon,Tom Sizemore
+The Green Mile,1999,189,Fantasy,8.6,1200000,Frank Darabont,Tom Hanks,Michael Clarke Duncan,David Morse
+Gladiator,2000,155,Action,8.5,1500000,Ridley Scott,Russell Crowe,Joaquin Phoenix,Connie Nielsen
+The Departed,2006,151,Crime,8.5,1400000,Martin Scorsese,Leonardo DiCaprio,Matt Damon,Jack Nicholson
+Whiplash,2014,106,Drama,8.5,800000,Damien Chazelle,Miles Teller,J.K. Simmons,Melissa Benoist
+The Prestige,2006,130,Mystery,8.5,1300000,Christopher Nolan,Christian Bale,Hugh Jackman,Scarlett Johansson
+The Lion King,1994,88,Animation,8.5,1000000,Roger Allers,Matthew Broderick,Jeremy Irons,James Earl Jones
+Avengers: Endgame,2019,181,Action,8.4,1000000,Anthony Russo,Robert Downey Jr.,Chris Evans,Mark Ruffalo
+Back to the Future,1985,116,Comedy,8.5,1200000,Robert Zemeckis,Michael J Fox,Christopher Lloyd,Lea Thompson
+Apocalypse Now,1979,147,Drama,8.4,700000,Francis Ford Coppola,Martin Sheen,Marlon Brando,Robert Duvall
+Braveheart,1995,178,Drama,8.3,1000000,Mel Gibson,Mel Gibson,Sophie Marceau,Patrick McGoohan
+The Usual Suspects,1995,106,Crime,8.5,1100000,Bryan Singer,Kevin Spacey,Gabriel Byrne,Chazz Palminteri
+American Beauty,1999,122,Drama,8.3,1100000,Sam Mendes,Kevin Spacey,Annette Bening,Thora Birch
+The Wolf of Wall Street,2013,180,Biography,8.2,1400000,Martin Scorsese,Leonardo DiCaprio,Jonah Hill,Margot Robbie
+Django Unchained,2012,165,Western,8.4,1400000,Quentin Tarantino,Jamie Foxx,Christoph Waltz,Leonardo DiCaprio
+Inglourious Basterds,2009,153,Adventure,8.3,1300000,Quentin Tarantino,Brad Pitt,Christoph Waltz,Michael Fassbender
+The Pianist,2002,150,Biography,8.5,800000,Roman Polanski,Adrien Brody,Thomas Kretschmann,Frank Finlay
+A Beautiful Mind,2001,135,Biography,8.2,900000,Ron Howard,Russell Crowe,Ed Harris,Jennifer Connelly
+Memento,2000,113,Thriller,8.4,1200000,Christopher Nolan,Guy Pearce,Carrie-Anne Moss,Joe Pantoliano
+No Country for Old Men,2007,122,Crime,8.2,1000000,Joel Coen,Tommy Lee Jones,Javier Bardem,Josh Brolin
+The Big Lebowski,1998,117,Comedy,8.1,700000,Joel Coen,Jeff Bridges,John Goodman,Julianne Moore
+Parasite,2019,132,Drama,8.5,800000,Bong Joon-ho,Song Kang-ho,Lee Sun-kyun,Cho Yeo-jeong
+Joker,2019,122,Crime,8.4,1100000,Todd Phillips,Joaquin Phoenix,Robert De Niro,Zazie Beetz
+1917,2019,119,Drama,8.3,600000,Sam Mendes,George MacKay,Dean-Charles Chapman,Mark Strong
+The Irishman,2019,209,Crime,7.8,500000,Martin Scorsese,Robert De Niro,Al Pacino,Joe Pesci
+Knives Out,2019,130,Mystery,7.9,600000,Rian Johnson,Daniel Craig,Chris Evans,Ana de Armas
+Once Upon a Time in Hollywood,2019,161,Comedy,7.6,700000,Quentin Tarantino,Leonardo DiCaprio,Brad Pitt,Margot Robbie
+Marriage Story,2019,137,Drama,7.9,300000,Noah Baumbach,Adam Driver,Scarlett Johansson,Laura Dern
+Ford v Ferrari,2019,152,Action,8.1,400000,James Mangold,Matt Damon,Christian Bale,Jon Bernthal
+The Lighthouse,2019,109,Drama,7.5,200000,Robert Eggers,Robert Pattinson,Willem Dafoe,Valeriia Karaman
+Midsommar,2019,148,Horror,7.1,200000,Ari Aster,Florence Pugh,Jack Reynor,William Jackson Harper
+Doctor Sleep,2019,152,Horror,7.3,200000,Mike Flanagan,Ewan McGregor,Rebecca Ferguson,Kyliegh Curran
+Spider-Man: Far From Home,2019,129,Action,7.5,500000,Jon Watts,Tom Holland,Samuel L. Jackson,Jake Gyllenhaal
+Avengers: Infinity War,2018,149,Action,8.4,900000,Anthony Russo,Robert Downey Jr.,Chris Hemsworth,Mark Ruffalo
+Black Panther,2018,134,Action,7.3,700000,Ryan Coogler,Chadwick Boseman,Michael B Jordan,Lupita Nyongo
+A Quiet Place,2018,90,Horror,7.5,400000,John Krasinski,Emily Blunt,John Krasinski,Millicent Simmonds
+Hereditary,2018,127,Horror,7.3,300000,Ari Aster,Toni Collette,Milly Shapiro,Gabriel Byrne
+BlacKkKlansman,2018,135,Biography,7.5,300000,Spike Lee,John David Washington,Adam Driver,Laura Harrier
+Bohemian Rhapsody,2018,134,Biography,7.9,600000,Bryan Singer,Rami Malek,Lucy Boynton,Gwilym Lee
+Crazy Rich Asians,2018,120,Comedy,6.9,200000,Jon M Chu,Constance Wu,Henry Golding,Michelle Yeoh
+Roma,2018,135,Drama,7.7,200000,Alfonso Cuaron,Yalitza Aparicio,Marina de Tavira,Diego Cortina Autrey
+The Favourite,2018,119,Drama,7.5,200000,Yorgos Lanthimos,Olivia Colman,Emma Stone,Rachel Weisz
+Vice,2018,132,Biography,7.2,200000,Adam McKay,Christian Bale,Amy Adams,Steve Carell
+Ready Player One,2018,140,Sci-Fi,7.4,400000,Steven Spielberg,Tye Sheridan,Olivia Cooke,Ben Mendelsohn
+Mission Impossible Fallout,2018,147,Action,7.7,400000,Christopher McQuarrie,Tom Cruise,Henry Cavill,Ving Rhames
+Annihilation,2018,115,Sci-Fi,6.8,300000,Alex Garland,Natalie Portman,Jennifer Jason Leigh,Gina Rodriguez
+Dunkirk,2017,106,Drama,7.8,700000,Christopher Nolan,Fionn Whitehead,Tom Hardy,Mark Rylance
+Get Out,2017,104,Horror,7.7,600000,Jordan Peele,Daniel Kaluuya,Allison Williams,Bradley Whitford
+The Shape of Water,2017,123,Fantasy,7.3,400000,Guillermo del Toro,Sally Hawkins,Octavia Spencer,Michael Shannon
+Lady Bird,2017,94,Drama,7.4,300000,Greta Gerwig,Saoirse Ronan,Laurie Metcalf,Tracy Letts
+Blade Runner 2049,2017,164,Sci-Fi,8.0,600000,Denis Villeneuve,Ryan Gosling,Harrison Ford,Ana de Armas
+It,2017,135,Horror,7.3,500000,Andy Muschietti,Jaeden Martell,Bill Skarsgard,Finn Wolfhard
+Three Billboards Outside Ebbing Missouri,2017,115,Drama,8.1,700000,Martin McDonagh,Frances McDormand,Woody Harrelson,Sam Rockwell
+Call Me by Your Name,2017,132,Drama,7.9,300000,Luca Guadagnino,Armie Hammer,Timothee Chalamet,Michael Stuhlbarg
+Logan,2017,137,Action,8.1,700000,James Mangold,Hugh Jackman,Patrick Stewart,Dafne Keen
+War for the Planet of the Apes,2017,140,Sci-Fi,7.4,300000,Matt Reeves,Andy Serkis,Woody Harrelson,Steve Zahn
+Baby Driver,2017,113,Action,7.6,500000,Edgar Wright,Ansel Elgort,Kevin Spacey,Lily James
+The Revenant,2015,156,Adventure,8.0,800000,Alejandro Inarritu,Leonardo DiCaprio,Tom Hardy,Will Poulter
+Mad Max Fury Road,2015,120,Action,8.1,900000,George Miller,Tom Hardy,Charlize Theron,Nicholas Hoult
+Spotlight,2015,129,Drama,8.1,500000,Tom McCarthy,Mark Ruffalo,Michael Keaton,Rachel McAdams
+The Martian,2015,144,Sci-Fi,8.0,800000,Ridley Scott,Matt Damon,Jessica Chastain,Kristen Wiig
+Room,2015,118,Drama,8.1,400000,Lenny Abrahamson,Brie Larson,Jacob Tremblay,Sean Bridgers
+Bridge of Spies,2015,141,Drama,7.6,300000,Steven Spielberg,Tom Hanks,Mark Rylance,Austin Stowell
+The Big Short,2015,130,Biography,7.8,500000,Adam McKay,Christian Bale,Steve Carell,Ryan Gosling
+Inside Out,2015,95,Animation,8.1,700000,Pete Docter,Amy Poehler,Mindy Kaling,Bill Hader
+Ex Machina,2014,108,Sci-Fi,7.7,600000,Alex Garland,Domhnall Gleeson,Alicia Vikander,Oscar Isaac
+Gone Girl,2014,149,Mystery,8.1,800000,David Fincher,Ben Affleck,Rosamund Pike,Neil Patrick Harris
+Boyhood,2014,165,Drama,7.9,300000,Richard Linklater,Patricia Arquette,Ellar Coltrane,Ethan Hawke
+Guardians of the Galaxy,2014,121,Action,8.0,1000000,James Gunn,Chris Pratt,Zoe Saldana,Dave Bautista
+The Imitation Game,2014,114,Biography,8.0,700000,Morten Tyldum,Benedict Cumberbatch,Keira Knightley,Matthew Goode
+Birdman,2014,119,Comedy,7.7,500000,Alejandro Inarritu,Michael Keaton,Zach Galifianakis,Edward Norton
+Gravity,2013,91,Sci-Fi,7.7,800000,Alfonso Cuaron,Sandra Bullock,George Clooney,Ed Harris
+Her,2013,126,Drama,8.0,500000,Spike Jonze,Joaquin Phoenix,Scarlett Johansson,Amy Adams
+The Grand Budapest Hotel,2014,99,Comedy,8.1,800000,Wes Anderson,Ralph Fiennes,Tony Revolori,Saoirse Ronan
+12 Years a Slave,2013,134,Drama,8.1,600000,Steve McQueen,Chiwetel Ejiofor,Michael Kenneth Williams,Michael Fassbender
+Pacific Rim,2013,131,Action,6.9,500000,Guillermo del Toro,Charlie Hunnam,Idris Elba,Rinko Kikuchi
+American Hustle,2013,138,Crime,7.2,500000,David O Russell,Christian Bale,Bradley Cooper,Amy Adams
+The Dark Knight Rises,2012,164,Action,8.4,1700000,Christopher Nolan,Christian Bale,Tom Hardy,Anne Hathaway
+Life of Pi,2012,127,Adventure,7.9,600000,Ang Lee,Suraj Sharma,Irrfan Khan,Adil Hussain
+Django Unchained,2012,165,Western,8.4,1400000,Quentin Tarantino,Jamie Foxx,Christoph Waltz,Leonardo DiCaprio
+Silver Linings Playbook,2012,122,Comedy,7.7,600000,David O Russell,Bradley Cooper,Jennifer Lawrence,Robert De Niro
+Argo,2012,120,Drama,7.7,600000,Ben Affleck,Ben Affleck,Alan Arkin,Bryan Cranston
+Zero Dark Thirty,2012,157,Drama,7.4,400000,Kathryn Bigelow,Jessica Chastain,Joel Edgerton,Chris Pratt
+Prometheus,2012,124,Sci-Fi,7.0,600000,Ridley Scott,Noomi Rapace,Michael Fassbender,Guy Pearce
+The Avengers,2012,143,Action,8.0,1300000,Joss Whedon,Robert Downey Jr.,Chris Evans,Scarlett Johansson
